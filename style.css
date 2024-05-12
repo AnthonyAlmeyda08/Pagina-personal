@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+header{
+    height: 70px;
+    background: rgb(255, 204, 0);
+}
+h1{
+    padding: 15px;
+    margin: 0;
+}
+.personal{
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: aquamarine;
+    font-size: 20px;
+    width: 600px;
+    height: 280px;
+    border: dashed red;
+}
+.personal h2{
+    margin: 0;
+    padding-left: 15px;
+}
+ .personal p{
+    margin: 0;
+    background: rgb(232, 236, 235);
+    padding: 15px;
+} 
+img{
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    top: 85px;
+    right: 100px;
+}
+footer{
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 40px;
+    color: white;
+    margin-top: 20px;
+    background: blue;
+}
+/* .redes a{
+    border-radius: 10px;
+    font-size: 20px;
+    background: greenyellow;
+    color: black;
+    margin: 20px;
+} */
+.enlaces {
+    border-radius: 10px;
+    font-size: 20px;
+    background: rgb(147, 234, 17);
+    margin: 20px;
+    border: 2px solid black;
+}
+.enlaces:hover{
+    border-radius: 20%;
+    border: 4px dashed red;
+    background: linear-gradient(rgb(115, 179, 170), rgb(134, 209, 163), rgb(238, 238, 176));
+}
