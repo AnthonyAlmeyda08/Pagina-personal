@@ -1,3 +1,1 @@
-# hola soy anthony almeyda, estudiante de Desarrollo de sitemas de informacion
-# tengo 20 años y terminando mi carrera voy a estudiar Ing. de sistemas
-# Recuerda mi nombre
+# hola soy Omar Anthony Almeyda, estudiante de Desarrollo de sitemas de informacion, en un futuro no muy lejano Ing. de Sistemas
