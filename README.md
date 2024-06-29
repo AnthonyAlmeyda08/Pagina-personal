@@ -1,1 +1,1 @@
-# hola Anthony, estudiante de DSI, en un futuro no muy lejano Ing. de Sistemas
+# hola Anthony, estudiante de DSI
