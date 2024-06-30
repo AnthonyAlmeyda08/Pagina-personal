@@ -1,1 +1,1 @@
-# hola Anthony, estudiante de DSI
+# hola soy Anthony, estudiante de DSI
