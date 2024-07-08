@@ -5,11 +5,21 @@ body{
 header{
     height: 70px;
     background: rgb(255, 204, 0);
-
+    display: flex;
+    justify-content: space-between; /* Distribuye el espacio entre los elementos */
+    align-items: center; /* Centra verticalmente los elementos */
+    padding: 0 25px; /* Añade algo de espacio a los lados */
 }
 h1{
     padding: 15px;
     margin: 0;
+}
+nav{
+    display: flex; /* Permite alinear los enlaces horizontalmente */
+    gap: 20px; /* Espacio entre los enlaces */
+}
+nav a {
+    color: rgb(19, 17, 17);
 }
 .personal{
     margin-top: 10px;
